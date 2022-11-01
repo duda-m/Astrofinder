@@ -1,2 +1,6 @@
-# Astrofinder
-Apontador laser que possui como objetivo auxiliar os amantes da astronomia a localizar os corpos celestes
+# Astrofinder ⭐
+
+A astronomia é a ciência que estuda os corpos celestes e fenômenos ligados ao universo. A contemplação do céu a olho nu, apesar de ser uma prática comum entre os amantes dessa ciência, nem sempre é satisfatória, pois há alguns fatores, como a poluição luminosa da cidade, que dificultam a visualização dos corpos celestes no céu noturno. Além disso, a falta de identificação da localização dos astros pode ser frustrante, principalmente para aqueles que ainda não possuem conhecimento suficiente para conseguirem guiar-se pelo céu. Por isso, surge a necessidade de equipamentos que auxiliem a observação astronômica. O apontador laser, próprio para esse tipo de atividade, é um instrumento bastante difundido entre esse meio. Através de seu rastro luminoso e colimado, o laser consegue propagar-se em grandes distâncias sem perder sua potência, auxiliando na visualização das posições dos planetas, estrelas, nebulosas, constelações entre outros corpos celestes.
+
+Diante disso, com intuito de amparar os amantes da astronomia, e foco nos principiantes dessa área, este projeto desenvolveu um instrumento, Astrofinder, capaz de apontar para o corpo celeste desejado facilitando a visualização desses astros no céu. Proporcionando um maior engajamento e autonomia de astrônomos iniciantes na área. Além de poder auxiliar até mesmo os mais experientes, em casos que o objeto apresenta baixa intensidade luminosa dificultando a visualização a olho nu, sendo apenas passível de observação por telescópio
+
